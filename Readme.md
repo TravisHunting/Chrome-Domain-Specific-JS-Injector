@@ -11,14 +11,13 @@ Extension Button Appearance
 
 </div>
 
-<br>
+
 
 # Why do I want it?  <br>
 
 Write yourself a suite of simple (or complex) scripts to make your life easier. 
 
 Automate repetitive browser based tasks, parse document data, download images.... Whatever you like. Don't worry about keeping track of your scripts, or entering them into the console. Just click a button!
-<br>
 <br>
 
 # Loading this extension into Chrome: <br>
@@ -32,7 +31,6 @@ Automate repetitive browser based tasks, parse document data, download images...
 6. Navigate to the root folder of the extension 
     - In this case, "Chrome-Domain-Specific-JS-Injector"
 7. Hit "Select Folder" to finalize.
-
 <br>
 
 # Notes: <br>
