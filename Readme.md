@@ -1,6 +1,6 @@
 # What does this extension do? <br>
 
-When you click the extension button the URL you are currently at will be parsed. If you have a corresponding JS file in the root/scripts/ folder it will immediately run.  
+When you click the extension button the URL of your currently selected browser tab will be parsed. If a corresponding JS file exists in the "root/scripts/" folder, the script will immediately be run.  
 
 <div align="center">
 
@@ -17,7 +17,7 @@ Extension Button Appearance
 
 Write yourself a suite of simple (or complex) scripts to make your life easier. 
 
-Automate repetitive web based tasks, parse document data, download images.... Whatever you like. Don't worry about keeping track of your scripts, or entering them into the console. Just click a button!
+Automate repetitive browser based tasks, parse document data, download images.... Whatever you like. Don't worry about keeping track of your scripts, or entering them into the console. Just click a button!
 <br>
 <br>
 
@@ -38,7 +38,7 @@ Automate repetitive web based tasks, parse document data, download images.... Wh
 # Notes: <br>
 
 - If you attempt to run the extension on a site for which a script does not yet exist, you will be notified. If you open the Chrome Developer Tools by pressing F12, you can see exactly what you will need to name the script file in order for it to be run automatically.
-- The "Extension Button" is found in the top right corner of the Chrome window. If the button is not visible at first, you may need to click on the small icon that looks like a puzzle piece, then click the 'Pin' icon next to this extension (Javascript Injector).
+- The "Extension Button" is found in the top right corner of the Chrome window. If the button is not visible at first, you may need to click on the small icon that looks like a puzzle piece, then click the 'Pin' icon next to this extension ("Javascript Injector").
 
 <div align="center">
 
