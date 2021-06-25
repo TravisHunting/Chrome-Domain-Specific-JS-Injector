@@ -7,7 +7,7 @@ When you click the extension button the URL of your currently selected browser t
 Extension Button Appearance
 <br>
 
-<img src="Button_Pointer.jpg" alt="Top Right Corner of the Chrome Window">
+<img src="https://i.imgur.com/zu3Bma5.jpg" alt="Top Right Corner of the Chrome Window">
 
 </div>
 
@@ -45,7 +45,7 @@ Automate repetitive browser based tasks, parse document data, download images...
 Pin Extension to Browser Bar
 <br>
 
-<img src="Puzzle_Piece_Pointer.jpg" alt="Top Right Corner of the Chrome Window" width="300px">
+<img src="https://i.imgur.com/AdeTl0x.jpg" alt="Top Right Corner of the Chrome Window" width="300px">
 
 </div>
 
