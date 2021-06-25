@@ -4,9 +4,10 @@ When you click the extension button the URL you are currently at will be parsed.
 
 <div style="text-align:center">
 
-Button Location
+Extension Button Appearance
 <br>
-![alt text](Button_Pointer.jpg "Logo Title Text 1")
+
+<img align="center" src="Button_Pointer.jpg" alt="Top Right Corner of the Chrome Window">
 
 </div>
 
@@ -38,4 +39,13 @@ Automate repetitive web based tasks, parse document data, download images.... Wh
 
 - If you attempt to run the extension on a site for which a script does not yet exist, you will be notified. If you open the Chrome Developer Tools by pressing F12, you can see exactly what you will need to name the script file in order for it to be run automatically.
 - The "Extension Button" is found in the top right corner of the Chrome window. If the button is not visible at first, you may need to click on the small icon that looks like a puzzle piece, then click the 'Pin' icon next to this extension (Javascript Injector).
+
+<div style="text-align:center">
+
+Pin Extension to Browser Bar
+<br>
+
+<img align="center" src="Puzzle_Piece_Pointer.jpg" alt="Top Right Corner of the Chrome Window" width="300px">
+
+</div>
 
