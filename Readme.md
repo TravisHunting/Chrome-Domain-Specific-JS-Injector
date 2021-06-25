@@ -31,7 +31,6 @@ Automate repetitive browser based tasks, parse document data, download images...
 6. Navigate to the root folder of the extension 
     - In this case, "Chrome-Domain-Specific-JS-Injector"
 7. Hit "Select Folder" to finalize.
-<br>
 
 # Notes: <br>
 
