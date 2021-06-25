@@ -1,9 +1,18 @@
 # What does this extension do? <br>
 
 When you click the extension button the URL you are currently at will be parsed. If you have a corresponding JS file in the root/scripts/ folder it will immediately run.  
+
+<div style="text-align:center">
+
+Button Location
+<br>
+![alt text](Button_Pointer.jpg "Logo Title Text 1")
+
+</div>
+
 <br>
 
-# Why?  <br>
+# Why do I want it?  <br>
 
 Write yourself a suite of simple (or complex) scripts to make your life easier. 
 
