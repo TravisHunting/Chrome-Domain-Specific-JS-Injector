@@ -28,4 +28,5 @@ Automate repetitive web based tasks, parse document data, download images.... Wh
 # Notes: <br>
 
 - If you attempt to run the extension on a site for which a script does not yet exist, you will be notified. If you open the Chrome Developer Tools by pressing F12, you can see exactly what you will need to name the script file in order for it to be run automatically.
+- The "Extension Button" is found in the top right corner of the Chrome window. If the button is not visible at first, you may need to click on the small icon that looks like a puzzle piece, then click the 'Pin' icon next to this extension (Javascript Injector).
 
