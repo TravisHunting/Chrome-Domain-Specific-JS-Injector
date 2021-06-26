@@ -17,7 +17,7 @@ Extension Button Appearance
 
 Write yourself a suite of simple (or complex) scripts to make your life easier. 
 
-Automate repetitive browser based tasks, parse document data, download images.... Whatever you like. Don't worry about keeping track of your scripts, or entering them into the console. Just click a button!
+Automate repetitive browser based tasks (like filling out repetitive forms), parse document data, download images.... Whatever you like. Don't worry about keeping track of your scripts, or entering them into the console. Just click a button!
 <br>
 
 # Installing the Extension: <br>

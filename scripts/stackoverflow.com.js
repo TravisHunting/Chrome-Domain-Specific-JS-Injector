@@ -1,5 +1,6 @@
 (function() {
 
+    // This code creates a DOM element with specific properties and inserts it into the document at a specific location
     var div = document.createElement('div');
     div.id = "vantajs-bg";
     div.style = "z-index: -1; position: absolute; width: 100%; height: 100%;";
